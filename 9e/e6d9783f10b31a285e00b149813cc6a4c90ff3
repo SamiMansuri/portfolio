@@ -1,0 +1,17 @@
+src/config/site.ts
+  h_67e264807cd63e 1-45
+src/pages/Home.tsx
+  h_67e264807cd63e 1-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "2.0.2",
+  "base_commit_sha": "9ee6d9783f10b31a285e00b149813cc6a4c90ff3",
+  "branch": "master",
+  "prompts": {},
+  "humans": {
+    "h_67e264807cd63e": {
+      "author": "SamiMansuri <samimansuri303@gmail.com>"
+    }
+  }
+}
